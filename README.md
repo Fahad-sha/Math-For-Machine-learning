@@ -2,11 +2,11 @@
 Math For Machine learning
 
 
-Gradient Descent (GD) is an optimization algorithm used to minimize a function by iteratively moving towards the steepest descent, i.e., the negative gradient of the function at the current point. It's widely used in machine learning to minimize cost functions, particularly in models like linear regression and neural networks.
+## Gradient Descent (GD) is an optimization algorithm used to minimize a function by iteratively moving towards the steepest descent, i.e., the negative gradient of the function at the current point. It's widely used in machine learning to minimize cost functions, particularly in models like linear regression and neural networks.
 Equation:
 ![image](https://github.com/user-attachments/assets/46166636-c0a2-43e1-8033-7f7cbcdd7b00)
 
- Function requirements
+## Function requirements
 Gradient descent algorithm does not work for all functions. 
 There are two specific requirements. A function has to be:
 
@@ -15,7 +15,7 @@ There are two specific requirements. A function has to be:
 
 •	convex
 
-Simplified Example:
+## Simplified Example:
 Imagine you’re on a hill, and it’s very foggy so you can’t see far ahead. Your goal is to get to the bottom of the hill (the lowest point), but you don’t have a map or a clear view of where it is.
 Here’s what you do:
 1.	Look around your feet: You feel the ground around you to sense which direction is sloping downward.
@@ -25,12 +25,11 @@ Eventually, you reach the bottom of the hill because each step brings you closer
 In machine learning, the "hill" is the error or cost we want to minimize, and "steps" are adjustments we make to the model’s parameters. By iteratively taking steps (adjusting parameters in small increments), we get closer to the best model that makes the least error. The "fog" is the uncertainty or complexity of the data, and gradient descent helps find the best solution without needing to see the entire landscape at once.
 
 
-Purpose:
+## Purpose:
 In machine learning, this often involves finding the optimal parameters for a model to minimize the error between its predictions and the true values. By iteratively adjusting the parameters in the direction of steepest descent, gradient descent helps to find the best possible fit for the given data.
 
 
-
-2.	Differentiate between Batch, Stochastic, and Mini-batch Gradient Descent: 
+## Differentiate between Batch, Stochastic, and Mini-batch Gradient Descent: 
 Describe each variant of GD and provide examples of scenarios where each might be most appropriate. 
 
 1. Batch Gradient Descent (BGD)
