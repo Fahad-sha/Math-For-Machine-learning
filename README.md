@@ -9,7 +9,10 @@ Equation:
  Function requirements
 Gradient descent algorithm does not work for all functions. 
 There are two specific requirements. A function has to be:
+
+
 •	differentiable
+
 •	convex
 
 Simplified Example:
