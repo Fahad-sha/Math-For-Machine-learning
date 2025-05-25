@@ -19,5 +19,3 @@ This repository contains resources and mathematical concepts essential for under
 
 To use this repository, clone it to your local machine:
 
-```bash
-git clone https://github.com/your-username/math-for-machine-learning.git
