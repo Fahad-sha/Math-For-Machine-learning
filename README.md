@@ -1,21 +1,27 @@
 # Math for Machine Learning
 
-This repository contains resources and mathematical concepts essential for understanding machine learning. It includes various mathematical topics explained through visualizations and videos from 3Blue1Brown's *Essence of Algebra* series.
+This repository contains resources and mathematical concepts essential for understanding machine learning. It includes curated explanations and visualizations from 3Blue1Brown’s series on algebra, linear algebra, and calculus.
 
-## Contents
+## 📚 Contents
 
-- **Essence of Algebra (3Blue1Brown)**: A curated collection of videos that break down the fundamental concepts of algebra with a visual, intuitive approach. This series helps in understanding the core math that underpins many machine learning algorithms.
-  
-- **Mathematical Foundations**: Here you'll find various mathematical topics such as:
-  - **Linear Algebra**
-  - **Calculus**
-  - **Statistics**
-  - **Probability**
-  - **Optimization**
-  
-- **Mathematics for ML**: We provide an easy-to-follow guide on how mathematical principles like matrices, vectors, eigenvalues, and more are applied in the context of machine learning.
+- **Essence of Algebra (3Blue1Brown)**: A visual journey through algebraic thinking that sets the stage for more advanced topics.
+- **Essence of Linear Algebra**: An intuitive breakdown of vectors, matrices, linear transformations, and eigenvalues — critical for understanding how data is represented and manipulated in ML.
+- **Essence of Calculus**: A conceptual look at derivatives, integrals, and the fundamental theorem of calculus, useful for understanding optimization and learning dynamics.
 
-## Getting Started
+## 🔗 Key Video Series (by 3Blue1Brown)
 
-To use this repository, clone it to your local machine:
+- 🎥 [Essence of Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- 🎥 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- 🎥 [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+## 🧠 Why Math for ML?
+
+Understanding the math behind ML helps with:
+- Grasping how models learn and generalize
+- Interpreting and debugging models
+- Making informed choices around algorithms and architectures
+
+## 🚀 Getting Started
+
+Clone the repository:
 
